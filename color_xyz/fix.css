@@ -1,0 +1,24 @@
+body {
+	background: white!important;
+}
+
+div.exercise,
+.exercise p,
+.exercise .table-dark,
+.exercise li,
+.exercise .content h1,
+.exercise .content h3 {
+	background-color: white!important;
+	color: black!important;
+}
+
+.exercise .alert-dark p {
+	background: #1C1C1C!important;
+    color: #fff!important;
+}
+
+div.course__content>ul>li a {
+	color: #495057!important;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff!important;
+}
